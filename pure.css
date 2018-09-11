@@ -29,7 +29,11 @@ html {
 body {
   margin: 0;
 }
-
+p {
+  margin: 20px;
+  padding: 20px;
+  border: 1p solid #fff;
+}  
 /* HTML5 display definitions
    ========================================================================== */
 
