@@ -17,3 +17,8 @@ p {
 .blue {
   color:blue;
 }
+.littlehamster {
+    padding: 150px;
+    margin-top: 50px;
+    background-color: aquamarine;
+}
