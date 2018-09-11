@@ -2,8 +2,18 @@
 h1 {
   color:pink;
   }
+
+  img {
+    width: 400px;
+  }
 p {
   margin: 20px;
   padding: 20px;
   border: 1px solid #fff;
+}
+.pink {
+  color:pink;
+}
+.blue {
+  color:blue;
 }
