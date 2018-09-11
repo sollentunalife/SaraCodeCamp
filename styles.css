@@ -26,8 +26,7 @@ p {
 }
 nav {
     float: left;
-    width: 30%;
-    height: 300px; /* only for demonstration, should be removed */
+    width: 20%;
     background: #ccc;
     padding: 20px;
 }
@@ -47,5 +46,11 @@ header {
     padding: 30px;
     text-align: center;
     font-size: 35px;
+    color: white;
+}
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
     color: white;
 }
