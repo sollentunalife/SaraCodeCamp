@@ -1,2 +1,9 @@
 
-/* This file is where your CSS goes. When you start adding CSS, feel free to delete this comment */
+h1 {
+  color:pink;
+  }
+p {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #fff;
+}
