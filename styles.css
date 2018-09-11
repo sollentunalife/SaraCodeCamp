@@ -16,6 +16,8 @@ p {
 }
 .blue {
   color:blue;
+  font: verdana;
+  font-size: 14px;
 }
 .littlehamster {
     padding: 150px;
