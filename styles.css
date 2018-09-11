@@ -24,3 +24,14 @@ p {
     margin-top: 50px;
     background-color: aquamarine;
 }
+nav {
+    float: left;
+    width: 30%;
+    height: 300px; /* only for demonstration, should be removed */
+    background: #ccc;
+    padding: 20px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
