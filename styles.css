@@ -54,4 +54,6 @@ footer {
     text-align: center;
     color: white;
 }
-font-family: 'Indie Flower', cursive;
+body {
+  font-family: 'Indie Flower', cursive;
+}
